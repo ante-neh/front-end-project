@@ -1,0 +1,3 @@
+A pricing card is a design element on a commercial website to display the various pricing plans, subscriptions, or price comparisons.
+
+This video shows you how to create an Animated Pricing Card using only HTML & CSS. In this card, there is a total of 3 packages, and you can view each package with the help of a slider tab which is placed to the top. When you click on the particular tab, the particular package will appear with a sliding animation.
